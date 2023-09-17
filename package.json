@@ -1,5 +1,6 @@
 {
-  "name": "vue3.x-component-mode",
+  "name": "vue3.x-todo-list",
+  "description": "Vue3.x Component - Todo List",
   "private": true,
   "version": "1.0.0",
   "scripts": {
